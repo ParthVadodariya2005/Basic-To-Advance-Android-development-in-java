@@ -75,11 +75,6 @@ Contributions to this repository are welcome! If you'd like to contribute an exe
 5. Create a new Pull Request.
 
 
-
-
-# Android-Cheat-sheet
-Cheat Sheet for Android Interviews
-
 ## Topics
 * [Common Coding Programs](#common-coding-programs)
 * [Data Structure Coding Programs](#data-structure-coding-programs)
